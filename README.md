@@ -11,4 +11,18 @@ Digital Security Essentials: https://muktopaath.gov.bd/certificate/bdbea5cf-bc0d
 
 Microsoft Azure Fundamental: https://muktopaath.gov.bd/certificate/ff0785c9-1a60-4d68-bc4b-90f8dda15b5d
 
-An Introduction to Programming the Internet of Things (IoT) : https://coursera.org/share/3b79b6729753b94b379ffecbf81340a9
+An Introduction to Programming the Internet of Things (IoT): https://coursera.org/share/3b79b6729753b94b379ffecbf81340a9
+
+Introduction to Web Development: https://coursera.org/share/d04a48e140993a020b7549a1891c0d94
+
+Neural Networks and Deep Learning: https://coursera.org/share/58b4440276f6ac5304b8e303e3c71050
+
+Crash Course on Python: https://coursera.org/share/5738f20161831701e3700479b93c317a
+
+Object Oriented Programming in Java: https://coursera.org/share/89241364c13cbb785b41156b9ae8c5a8
+
+Programming for Everybody (Getting Started with Python): https://coursera.org/share/ad67523c5cd1328f6186f27e2ffe449f
+
+Cybersecurity and the Internet of Things: https://coursera.org/share/007c4738b1e90093ae7bfa6615979de7
+
+Blockchain Basics: https://coursera.org/share/b1cd595cc25e8a4ad4f25816c6add731
