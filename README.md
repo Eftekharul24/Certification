@@ -26,3 +26,5 @@ Programming for Everybody (Getting Started with Python): https://coursera.org/sh
 Cybersecurity and the Internet of Things: https://coursera.org/share/007c4738b1e90093ae7bfa6615979de7
 
 Blockchain Basics: https://coursera.org/share/b1cd595cc25e8a4ad4f25816c6add731
+
+Innovation Through Design: Think, Make, Break, Repeat : https://coursera.org/share/718fd043a8863eebfc5e03c369531217
