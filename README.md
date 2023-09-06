@@ -10,3 +10,5 @@ Network Technician Career Path: https://www.credly.com/badges/ab51168d-88ab-4554
 Digital Security Essentials: https://muktopaath.gov.bd/certificate/bdbea5cf-bc0d-42b4-adcc-f198dcd38cad
 
 Microsoft Azure Fundamental: https://muktopaath.gov.bd/certificate/ff0785c9-1a60-4d68-bc4b-90f8dda15b5d
+
+An Introduction to Programming the Internet of Things (IoT) : https://coursera.org/share/3b79b6729753b94b379ffecbf81340a9
