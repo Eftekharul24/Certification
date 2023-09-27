@@ -27,4 +27,7 @@ Cybersecurity and the Internet of Things: https://coursera.org/share/007c4738b1e
 
 Blockchain Basics: https://coursera.org/share/b1cd595cc25e8a4ad4f25816c6add731
 
-Innovation Through Design: Think, Make, Break, Repeat : https://coursera.org/share/718fd043a8863eebfc5e03c369531217
+Innovation Through Design: Think, Make, Break, Repeat: https://coursera.org/share/718fd043a8863eebfc5e03c369531217
+
+Coursera Project Network : Deep Learning with PyTorch: Image Segmentation
+https://coursera.org/share/23d1f90b78230464760aa1d075c626ab
