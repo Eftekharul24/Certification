@@ -29,5 +29,11 @@ Blockchain Basics: https://coursera.org/share/b1cd595cc25e8a4ad4f25816c6add731
 
 Innovation Through Design: Think, Make, Break, Repeat: https://coursera.org/share/718fd043a8863eebfc5e03c369531217
 
-Coursera Project Network : Deep Learning with PyTorch: Image Segmentation
+Coursera Project Network: Deep Learning with PyTorch: Image Segmentation
 https://coursera.org/share/23d1f90b78230464760aa1d075c626ab
+
+Getting started with Azure IOT Hub:
+https://coursera.org/share/82e9bfa51028893f4ffc242a2c663f2e
+
+Database Operations in MariaDB Using Python From Infosys:
+https://coursera.org/share/632988f899e75a5420b115b633f1693e
