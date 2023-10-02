@@ -37,3 +37,6 @@ https://coursera.org/share/82e9bfa51028893f4ffc242a2c663f2e
 
 Database Operations in MariaDB Using Python From Infosys:
 https://coursera.org/share/632988f899e75a5420b115b633f1693e
+
+Introduction to Data Science by Cisco:
+https://www.credly.com/badges/0186fcb9-644d-4637-a6fd-b8ab8c8035bc/public_url
